@@ -1,3 +1,6 @@
 [submodule "Desktop/RF-technologies/3d-portfolio"]
 	path = Desktop/RF-technologies/3d-portfolio
 	url = https://github.com/kapoorkhushi03/3d-portfolio.git
+[submodule "Desktop/RF-technologies/Ecommerce_website"]
+	path = Desktop/RF-technologies/Ecommerce_website
+	url = https://github.com/kapoorkhushi03/Ecommerce_website.git
